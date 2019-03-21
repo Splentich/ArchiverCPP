@@ -1,5 +1,5 @@
 
-// archiver that compress and decompress files from console
+// archiver that compress and decompress files from a console
 
 
 #include <stdio.h>
